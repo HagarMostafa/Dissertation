@@ -1,0 +1,23 @@
+# allSpace.txt Analysis
+
+## Data facts
+
+Array size: size(allSpace) = 29731 (number of rows)
+  > Rows Shuffeled using randperm
+
+Array dimension size = 2D (number of colomns)
+
+Data format: (X,Y)
+Data limits (x and y axis limits): 
+  - Min Point:(-480,-53)
+  - Max Point:(480,5000)
+
+
+## Code notes
+
+Command form: load durer.mat X 
+
+Func form:
+
+      % command form
+load('durer.mat','X')  % function form
