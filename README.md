@@ -4,10 +4,10 @@ Dissertation related code and data
 
 NetworkTraining:
 
-app1.m: Training data points.
+app1.m: Trains data points.
 
-combined.m: Using combined points and connections to plot the map.
+combined.m: Uses combined points and connections to plot the map.
 
 SpaialNavigation:
 
-multiClusterNav.m: Goal Direcected Navigation map
+multiClusterNav.m: Creates Goal Direcected Navigation map
